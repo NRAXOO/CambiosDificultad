@@ -1,0 +1,17 @@
+name: DiaPlugin
+version: 1.0
+main: p.cambiosDificultad.DiaPlugin
+api-version: 1.20
+commands:
+  dia5:
+    description: Activa la dificultad del día 5
+  resetdia5:
+    description: Desactiva la dificultad del día 5
+  dia10:
+    description: Activa la dificultad del día 10
+  resetdia10:
+    description: Desactiva la dificultad del día 10
+  dia15:
+    description: Activa la dificultad del día 15
+  resetdia15:
+    description: Desactiva la dificultad del día 15

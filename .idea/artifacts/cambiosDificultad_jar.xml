@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cambiosDificultad:jar">
+    <output-path>$USER_HOME$/AppData/Roaming/.feather/player-server/servers/81545f0e-eb3d-4eec-898f-e28963fbc08b/plugins</output-path>
+    <root id="archive" name="cambiosDificultad.jar">
+      <element id="module-output" name="cambiosDificultad" />
+    </root>
+  </artifact>
+</component>
